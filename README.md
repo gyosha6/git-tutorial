@@ -3,4 +3,4 @@
  - feature-A
  - fix-B
  - feature-c
- - feature-D
+ - feature-DDD
